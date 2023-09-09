@@ -1,0 +1,11 @@
+[package]
+name = "champing-glass-solution"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+chomping-glass = { git = "https://github.com/jarry-xiao/chomping-glass.git" }
